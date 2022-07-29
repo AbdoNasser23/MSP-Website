@@ -114,7 +114,10 @@ img {
     text-align: 0.25rem;
     line-height: 140%;
 }
-
+.section__subtitle {
+    text-align: center;
+    margin-bottom: 4rem;
+}
 /*=============== HEADER & NAV ===============*/
 
 
